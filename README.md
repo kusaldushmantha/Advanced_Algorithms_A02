@@ -1,3 +1,6 @@
+
+##Advanced Algorithms - Assignment 02
+
 Suppose you are given a sorted array A of size N (it contains N integers)
 and you have to search for an element x in it. You will first implement two search
 algorithms for this, as stated in parts (a) and (b) below, in either Java or Python. Next
